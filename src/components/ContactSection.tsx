@@ -3,9 +3,9 @@ import ContactButton from "./ContactButton";
 import { MessageCircle, Phone, Mail, Sparkles } from "lucide-react";
 
 const ContactSection = () => {
-  const whatsappNumber = "+1234567890"; // Replace with actual WhatsApp number
+  const whatsappNumber = "+917028347979"; // Replace with actual WhatsApp number
   const instagramHandle = "https://www.instagram.com/bhamaherbal?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==";
-  const phoneNumber = "+1234567890"; // Replace with actual phone number
+  const phoneNumber = "+917028347979"; // Replace with actual phone number
   const emailAddress = "info@bhamaherbal.com"; // Replace with actual email
 
   return (
